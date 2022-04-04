@@ -27,19 +27,15 @@ El cuestionario completo consta de 6 puntos, más un bonus de 0,5 puntos. Para r
 
 ### Ejercicio 1 (2 puntos)
 
-a. Importe y describa el dataset. ¿Qué observaciones puede realizar? (**1 punto**)
-
-b. Analice y de tratamiento a los datos faltantes, outliers e incoherencias. Justifique el tratamiento que de (o que no de). (**1 punto**)
+1. Importe y describa el dataset. ¿Qué observaciones puede realizar? (**1 punto**)
+2. Analice y de tratamiento a los datos faltantes, outliers e incoherencias. Justifique el tratamiento que de (o que no de). (**1 punto**)
 
 ### Ejercicio 2 (4 puntos)
 
-a. Explore las variables. ¿Cuáles considera más importantes para el Servicio Geológico de los Estados Unidos?, ¿por qué? (**0,5 puntos**)
-
-b. Analice gráficamente las distribuciones de las 3 variables más importantes, ¿qué propiedades y características tienen? (**1 punto**)
-
-c. Transforme las variables analizadas y analice su nueva representación. ¿Qué propiedades y características tienen? (**1 punto**)
-
-d. Compare los sismos entre México y Chile. ¿Son los sismos en Chile más intensos que en México? Utilice herramientas descriptivas e inferenciales. (**1,5 puntos**)
+1. Explore las variables. ¿Cuáles considera más importantes para el Servicio Geológico de los Estados Unidos?, ¿por qué? (**0,5 puntos**)
+2. Analice gráficamente las distribuciones de las 3 variables más importantes, ¿qué propiedades y características tienen? (**1 punto**)
+3. Transforme las variables analizadas y analice su nueva representación. ¿Qué propiedades y características tienen? (**1 punto**)
+4. Compare los sismos entre México y Chile. ¿Son los sismos en Chile más intensos que en México? Utilice herramientas descriptivas e inferenciales. (**1,5 puntos**)
 
 ### Bonus (0,5 puntos)
 
