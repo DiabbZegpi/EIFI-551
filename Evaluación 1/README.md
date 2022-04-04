@@ -28,7 +28,7 @@ El cuestionario completo consta de 6 puntos, más un bonus de 0,5 puntos. Para r
 ### Ejercicio 1 (2 puntos)
 
 1. Importe y describa el dataset. ¿Qué observaciones puede realizar? (**1 punto**)
-2. Analice y de tratamiento a los datos faltantes, outliers e incoherencias. Justifique el tratamiento que de (o que no de). (**1 punto**)
+2. Analice y de tratamiento a los datos faltantes, outliers e incoherencias. Justifique el tratamiento que dé (o que no dé). (**1 punto**)
 
 ### Ejercicio 2 (4 puntos)
 
