@@ -1,3 +1,23 @@
 # Evaluación 1
 
 La evaluación 1 consiste en la resolución de un cuestionario. Para resolverlo, tendrá que poner en práctica los conocimientos y herramientas aprendidas durante el curso de las unidades 1 y 2.
+
+## Cuestionario
+
+Para resolver este cuestionario, deberá emplear el dataset [earthquakes.csv](earthquakes.csv), que es un registro de sismos ocurridos al rededor del mundo, recopilados del Servicio Geológico de los Estados Unidos.
+
+### Diccionario de datos
+
+| Columna | Tipo | Comentario |
+| ------- | ---- | ---------- |
+| id | String | El nombre único de cada sismo |
+| impact.gap | Float | En general, mientras más pequeño sea este número, más confiable es la posición horizontal calculada del sismo. Específicamente, esto significa la mayor brecha azimutal entre estaciones azimutalmente adyacentes (en grados). Las ubicaciones de terremotos en las que la brecha azimutal supera los 180 grados suelen tener grandes incertidumbres de ubicación y profundidad. Varíá entre 0 y 180. |
+| impact.magnitude | Float | La magnitud del sismo es una medida del tamaño de un sismo en su origen. Es una medida logarítmica de base 10. Típicamente varía desde -1 (0.1, muy pequeño) a 10 (increíblemente poderoso). |
+| impact.significance | Integer | Un número que describe cuán significativo es un evento. Números grandes indican un evento más significativo. Varía entre 0 y 1000. |
+| location.depth | Float | Profundidad del evento en kilómetros. |
+| location.distance | Float | La distancia aproximada entre la fuente del sismo y la estación que lo reporta, medida en grados. 1 grado son aproximadamente 111.2 kilómetros. En general, mientras más pequeño es este número, más confiablees la profundidad calculada del sismo. En general, este número varía entre 0.4 y 7.1. |
+| location.full | String | El nombre completo de la ubicación. |
+| location.latitude | Float | Grados decimales de latitud (hacia arriba y abajo en el globo). Tiene valores negativos para latitudes del hemisferio sur. Varía entre -90 y 90. |
+| location.longitude | Float | Grados decimales de longitud (hacia este y oeste en el globo). Tiene valores negativos para el oeste. Varía entre -180 y 180. |
+| location.name | String | Una mejor suposición para el nombre del estado (o país, en algunos casos) en el que se informó este sismo |
+| time.full | String | La representación fecha/tiempo completa para cuando ocurrió el sismo. |
