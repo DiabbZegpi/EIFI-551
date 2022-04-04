@@ -3,13 +3,13 @@
 
 La evaluación 1 consiste en la resolución de un cuestionario. Para resolverlo, tendrá que poner en práctica los conocimientos y herramientas aprendidas durante el curso de las unidades 1 y 2.
 
-La fecha límite de entrega es el día jueves 21-04-2022. Realice la entrega al email diabbluis@gmail.com, con asunto **evaluación 1 de minería de datos - nombre y apellidos**. Para el formato del entregable tiene dos opciones: escribir un informe y entregarlo en pdf, o escribir un notebook (jupiter, colab, kaggle, etc). En ambos casos, el entregable debe contener la respuesta a las preguntas planteadas, el código usado para contestarlas y sus resultados (output). 
+La fecha límite de entrega es el día jueves 21-04-2022. Realice la entrega al email diabbluis@gmail.com, con asunto **evaluación 1 de minería de datos - nombre y apellidos**. Para el formato del entregable tiene dos opciones: escribir un informe y entregarlo en pdf, o escribir un notebook (jupiter, colab, kaggle, etc). En ambos casos, el entregable debe contener las respuestas debidamente justificadas a las preguntas planteadas, el código usado para contestarlas y sus resultados (output). 
 
 ## Cuestionario
 
-El cuestionario completo consta de 6 puntos, más un bonus de 0,5 puntos. Para resolver este cuestionario, deberá emplear el dataset [earthquakes.csv](earthquakes.csv), que es un registro de sismos ocurridos alrededor del mundo, recopilados del Servicio Geológico de los Estados Unidos.
+El cuestionario completo consta de 6 puntos, más un bonus de 0,5 puntos. Para resolver este cuestionario, deberá emplear el dataset [earthquakes.csv](earthquakes.csv), que es un registro de sismos ocurridos alrededor del mundo, recopilados del Servicio Geológico de los Estados Unidos. 
 
-![](https://i.pinimg.com/originals/ed/de/15/edde15f9db5f97cfca5796640d38ff7a.jpg)
+![](https://th.bing.com/th/id/R.0f3293f2dc8e13199fea08194823cb88?rik=vev%2be64GTsWg0g&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f1715646%2fimages%2fo-EARTHQUAKE-facebook.jpg&ehk=ePRNJ7utqWymhdb5oVRDBcp9eiQpZAqEOM%2fFcMBOQeo%3d&risl=&pid=ImgRaw&r=0)
 ### Diccionario de datos
 
 | Columna | Tipo | Comentario |
