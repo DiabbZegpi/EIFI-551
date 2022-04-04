@@ -24,6 +24,7 @@ El cuestionario completo consta de 6 puntos, más un bonus de 0,5 puntos. Para r
 | location.longitude | Float | Grados decimales de longitud (hacia este y oeste en el globo). Tiene valores negativos para el oeste. Varía entre -180 y 180. |
 | location.name | String | Una mejor suposición para el nombre del estado (o país, en algunos casos) en el que se informó este sismo. |
 | time.full | String | La representación fecha/tiempo completa para cuando ocurrió el sismo. |
+| deaths | String | Número de fallecimientos producto del sismo. |
 
 ### Ejercicio 1 (2 puntos)
 
